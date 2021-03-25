@@ -9,8 +9,5 @@
 * Transfer stocks with ease
 * Chat/Messenger
 
-
 ### DOWNLOAD ON GOOGLE PLAYSTORE
-```
-https://play.google.com/store/apps/details?id=com.fishpott.fishpott5&hl=en_AU
-```
+- <a href="https://play.google.com/store/apps/details?id=com.fishpott.fishpott5&hl=en&gl=US" target="_blank">https://play.google.com/store/apps/details?id=com.fishpott.fishpott5&hl=en&gl=US</a>
